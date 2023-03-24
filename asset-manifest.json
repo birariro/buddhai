@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/help-buddha/static/css/main.6b2011fe.css",
+    "main.js": "/help-buddha/static/js/main.3a7da139.js",
+    "static/js/787.7768dd4a.chunk.js": "/help-buddha/static/js/787.7768dd4a.chunk.js",
+    "static/media/bg2.jpg": "/help-buddha/static/media/bg2.804c429431b206738a67.jpg",
+    "static/media/logo.svg": "/help-buddha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/help-buddha/index.html",
+    "main.6b2011fe.css.map": "/help-buddha/static/css/main.6b2011fe.css.map",
+    "main.3a7da139.js.map": "/help-buddha/static/js/main.3a7da139.js.map",
+    "787.7768dd4a.chunk.js.map": "/help-buddha/static/js/787.7768dd4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2011fe.css",
+    "static/js/main.3a7da139.js"
+  ]
+}
