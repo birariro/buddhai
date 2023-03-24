@@ -1,15 +1,17 @@
-# Getting Started with Create React App
+
+# Usage
+## run
+```
+npm start
+```
 
 
-#명령
-
-## 실행
-#### `npm start`
-
-## 배포
+## deploy
 github page deploy
-#### `npm run deploy`
-
+```
+npm run deploy
+```
+https://k4keye.github.io/buddhai/
 
 
 # 라이센스 확인 필요
