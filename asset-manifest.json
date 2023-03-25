@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/buddhai/static/css/main.e454707b.css",
-    "main.js": "/buddhai/static/js/main.d0b1846a.js",
+    "main.js": "/buddhai/static/js/main.f1f2b86d.js",
     "static/js/787.da7bb705.chunk.js": "/buddhai/static/js/787.da7bb705.chunk.js",
     "static/media/bg2.jpg": "/buddhai/static/media/bg2.804c429431b206738a67.jpg",
     "static/media/logo.svg": "/buddhai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/buddhai/index.html",
     "main.e454707b.css.map": "/buddhai/static/css/main.e454707b.css.map",
-    "main.d0b1846a.js.map": "/buddhai/static/js/main.d0b1846a.js.map",
+    "main.f1f2b86d.js.map": "/buddhai/static/js/main.f1f2b86d.js.map",
     "787.da7bb705.chunk.js.map": "/buddhai/static/js/787.da7bb705.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e454707b.css",
-    "static/js/main.d0b1846a.js"
+    "static/js/main.f1f2b86d.js"
   ]
 }
