@@ -1,5 +1,6 @@
 import React,{ useState } from 'react';
 import './../css/common.css';
+import axios from "axios";
 
 function Home() {
 
@@ -25,13 +26,18 @@ function Home() {
     const [apiResult, setApiResult] = useState('');
     const handleClick = async () => {
         console.log(">>" + inputs.value)
-        // try {
-        //     const response = await fetch('http://localhost:8080');
-        //     const data = await response.text();
-        //     setApiResult(data);
-        // } catch (error) {
-        //     console.error(error);
-        // }
+
+        const apiUrl = "https://owq5kkdv09.execute-api.us-east-1.amazonaws.com/default/dumyEchoLambda";
+        console.log("apiUrl : "+ apiUrl);
+
+        axios.get(apiUrl,{ params : {"text" : inputs.value}})
+            .then(response => {
+                console.log("response : "+ response.data);
+                alert(response.data);
+
+            })
+            .catch(error => console.log("error: "+error));
+
     };
 
     return (
